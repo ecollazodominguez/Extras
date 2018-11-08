@@ -66,8 +66,6 @@ public class Notas {
 //            alumno++;
 //        }
 //    }
-    //
-    //
     public void calcularMedia() {
         float notaTr;
         do {
